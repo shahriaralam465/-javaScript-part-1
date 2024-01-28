@@ -1,0 +1,23 @@
+JavaScrip Keywords
+
+1. Keywords are a set of reserved words
+2. cannot be usd as names of function, labels, of variables
+
+3. var name ="john"; ==> its true
+3. Var name ="john"; ==> its false
+3. VAR name ="john"; ==> its false
+
+naming rules:
+
+1. camel case . As: "camelCase"
+2. snake case . as: "snake_case"
+3. Pascal case . as: "PascalCase"
+
+Variable names shouldn't like the onek below
+
+don't use 
+
+i. var student age =18
+ii. var 'salary'= 1000
+iii. var 99price =100
+iv. var -isVarified = true;

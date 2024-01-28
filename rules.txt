@@ -1,0 +1,3 @@
+যদি ভ্যারিয়েবল দুটির মধ্যে যোগ করতে চাই ;
+
+console.log( firstVariable + SecondVariable );
